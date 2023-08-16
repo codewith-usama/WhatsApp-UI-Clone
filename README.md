@@ -1,17 +1,29 @@
-# whatsapp_ui_clone
+# WhatsApp UI Clone
+Let’s say you have a basic knowledge of Flutter, so why not practise it by making an amazing project?
 
-A new Flutter project.
+So, I just published WhatsApp UI Clone | Flutter
+link: https://lnkd.in/dCNncjAu
 
-## Getting Started
+Topics covered:
+1. Flutter Widgets
+2. Navigation
+3. Code refactoring
+4. Managing multiple screens and more
 
-This project is a starting point for a Flutter application.
+Also, check the following:
+1. Top 10 Widgets Every FLUTTER DEVELOPER Should Know
+link: https://lnkd.in/dypj2rAW
 
-A few resources to get you started if this is your first Flutter project:
+2. Flutter projects for beginners
+link: https://lnkd.in/d5xfgjgT
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. What is Flutter
+link: https://lnkd.in/d77BXCPC
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# WhatsApp-UI-Clone" 
+4. Introduction to declarative UI | Flutter
+link: https://lnkd.in/dYaZKnam
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/codewith_usama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewith_usama" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/codewithusama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithusama" height="30" width="40" /></a>
